@@ -11,6 +11,10 @@ Eigenständiges Addon (nicht die alte DayZ-Suite). Passt zu **CDM Architect** un
 3. Für V-HACD: mitgelieferte `TestVHACD.exe` (oder eigener Pfad in den Preferences)
 4. Für die C# GeoEngine: [.NET 8 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
 
+## Handbuch
+
+Schritt-für-Schritt mit Screenshots: **[docs/handbuch](docs/handbuch/README.md)**
+
 ## Funktionen
 
 - **Faces → AABB** — enge Box um die Auswahl, 1 mm Skin

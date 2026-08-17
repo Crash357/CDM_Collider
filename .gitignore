@@ -10,6 +10,10 @@ dist/
 # Local references — not part of the public addon (Suite backups, GPL samples)
 samples/
 
+# Local wiki screenshot dumps (GitHub Wiki has its own repo)
+docs/wiki-images/
+_wiki/
+
 # Editor / C# intermediates
 .cursor/
 .vscode/
