@@ -1,21 +1,57 @@
-MIT License
-
+CDM Collider — Proprietary License
 Copyright (c) 2026 CDM / Crash DayZ Modding
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software (CDM Collider, including source, binaries, documentation and
+bundled CDM GeoEngine) is proprietary. You may use it only if you obtained a
+valid license from CDM / Crash DayZ Modding (purchase or explicit grant).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may:
+  - install and use the add-on in Blender for your own projects
+  - keep backup copies for personal use
+
+You may not:
+  - redistribute, resell, share or publish the ZIP, source or a modified copy
+  - sublicense the add-on to third parties
+  - upload it to public extension platforms or other stores
+
+No warranty. The software is provided “as is”, without warranty of any kind.
+
+---
+
+CDM Collider — Proprietäre Lizenz
+Copyright (c) 2026 CDM / Crash DayZ Modding
+
+Alle Rechte vorbehalten.
+
+Diese Software (CDM Collider inklusive Quellcode, Binaries, Dokumentation und
+mitgelieferter CDM GeoEngine) ist proprietär. Nutzung nur mit gültiger Lizenz
+von CDM / Crash DayZ Modding (Kauf oder ausdrückliche Freigabe).
+
+Erlaubt:
+  - Installation und Nutzung in Blender für eigene Projekte
+  - Sicherungskopien für den eigenen Gebrauch
+
+Nicht erlaubt:
+  - Weitergabe, Weiterverkauf, Teilen oder Veröffentlichen der ZIP, des
+    Quellcodes oder einer veränderten Kopie
+  - Unterlizenzierung an Dritte
+  - Upload auf öffentliche Extension-Plattformen oder andere Shops
+
+Keine Gewährleistung. Die Software wird „wie besehen“ bereitgestellt.
+
+---
+
+Third-party / Drittanbieter (unchanged licenses)
+
+V-HACD (TestVHACD.exe)
+  BSD 3-Clause © 2011 Khaled Mamou
+  https://github.com/kmammou/v-hacd
+
+CoACD (bundled Python wheel)
+  MIT © Xinyue Wei et al. (SIGGRAPH 2022)
+  https://github.com/SarahWeiii/CoACD
+
+These components remain under their original licenses. CDM Collider’s
+proprietary terms apply only to CDM’s own code and assets.

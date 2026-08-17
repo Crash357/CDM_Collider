@@ -1,4 +1,4 @@
-"""Convex hull helpers — same approach as simple_collider add_bounding_convex_hull."""
+"""Convex hull helpers using Blender's bmesh.ops.convex_hull."""
 import bmesh
 import bpy
 import mathutils
@@ -8,7 +8,7 @@ def convex_hull_bmesh(points):
     """
     Build a convex hull bmesh from world-space points.
 
-    Mirrors simple_collider: add verts → convex_hull → delete geom_unused.
+    Uses Blender's public bmesh API: add verts, convex_hull, drop unused/interior.
     Caller owns the returned bmesh and must call bm.free().
     """
     bm = bmesh.new()

@@ -13,10 +13,12 @@ Eigenständiges Addon (nicht die alte DayZ-Suite). Passt zu **CDM Architect** un
 
 ## Handbuch
 
-Schritt-für-Schritt mit Screenshots (Cube + Rock). Repo ist privat — eingeloggt öffnen:
+Wiki (eingeloggt, Repo ist privat):
 
-- **Deutsch:** https://github.com/Crash357/CDM_Collider/blob/main/docs/handbuch/de/README.md
-- **English:** https://github.com/Crash357/CDM_Collider/blob/main/docs/handbuch/en/README.md
+**https://github.com/Crash357/CDM_Collider/wiki**
+
+- Deutsch: https://github.com/Crash357/CDM_Collider/wiki
+- English: https://github.com/Crash357/CDM_Collider/wiki/Home-EN
 
 ## Funktionen
 
@@ -34,4 +36,4 @@ Gebäude-Auto-Geo ist **Beta-Test** und in den Preferences ausgeschaltet.
 - YouTube: [Crash DayZ Modding](https://www.youtube.com/@crash_dayz_modding)
 - Discord: https://discord.gg/9PM8BjWmp8
 
-Lizenz: MIT
+Lizenz: proprietär (kein MIT). Mitgeliefert: V-HACD (BSD 3-Clause), CoACD (MIT).

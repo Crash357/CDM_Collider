@@ -22,3 +22,9 @@ If Architect or P3D Studio is installed, Collider shares the **CDM** tab (no ext
 - **N-Panel mit Set zusammenführen** — one tab for Architect / Collider / P3D Studio
 - **Gebäude Geo LOD (Beta-Test)** — **off** by default. Turn on only when you want to try the auto pipeline.
 - **TestVHACD.exe** — path if the bundled executable is not found
+
+## License
+
+CDM Collider is **proprietary** (not MIT). Redistributing the ZIP is not allowed.
+
+Bundled under their own licenses: V-HACD (BSD 3-Clause), CoACD (MIT).

@@ -1,5 +1,5 @@
 # Build cdm_collider_vX.Y.Z.zip for Blender Extensions (Install from Disk).
-# Excludes samples/ (Suite backups, GPL Simple Collider) and C# sources.
+# Excludes samples/ and C# sources. Ships published GeoEngine CLI under geo_engine_cs/cli/.
 # Ships published GeoEngine CLI under geo_engine_cs/cli/.
 $ErrorActionPreference = "Stop"
 $Root = Split-Path -Parent $PSScriptRoot

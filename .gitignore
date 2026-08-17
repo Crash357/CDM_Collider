@@ -7,7 +7,7 @@ __pycache__/
 dist/
 *.zip
 
-# Local references — not part of the public addon (Suite backups, GPL samples)
+# Local references — not part of the public addon
 samples/
 
 # Local wiki screenshot dumps (GitHub Wiki has its own repo)
