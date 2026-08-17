@@ -36,9 +36,10 @@ class CDM_ColliderPreferences(bpy.types.AddonPreferences):
     bl_idname = __package__
 
     building_geo_lod_experimental: BoolProperty(
-        name="Gebäude Geo LOD (experimentell)",
-        description="Aktiviert die experimentelle Collision-Geo-Pipeline für Gebäude "
-                    "(C# GeoEngine, Geo-Regionen). Ergebnisse können ungenau sein.",
+        name="Gebäude Geo LOD (Beta-Test)",
+        description="Aktiviert die Collision-Geo-Pipeline für Gebäude "
+                    "(C# GeoEngine, Geo-Regionen) als Beta-Test. "
+                    "Standard: aus. Ergebnisse können ungenau sein.",
         default=False,
     )
 
@@ -68,7 +69,7 @@ class CDM_ColliderPreferences(bpy.types.AddonPreferences):
         box_geo.prop(self, "building_geo_lod_experimental", toggle=True)
         hint = box_geo.column(align=True)
         hint.scale_y = 0.85
-        hint.label(text="Experimentell — Collision-Geo für Gebäude.", icon="ERROR")
+        hint.label(text="Beta-Test — Collision-Geo für Gebäude.", icon="ERROR")
         hint.label(text="N-Panel: CDM Collider (oder CDM im Set).", icon="BLANK1")
 
         layout.separator()

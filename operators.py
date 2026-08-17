@@ -470,7 +470,7 @@ class CDM_OT_building_auto_geo(bpy.types.Operator):
     def invoke(self, context, event):
         from .addon_prefs import building_geo_lod_enabled
         if not building_geo_lod_enabled(context):
-            self.report({'ERROR'}, 'In Preferences aktivieren: Gebäude Geo LOD (experimentell).')
+            self.report({'ERROR'}, 'In Preferences aktivieren: Gebäude Geo LOD (Beta-Test).')
             return {'CANCELLED'}
 
         if context.scene.cdm_engine_busy:

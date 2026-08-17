@@ -3,7 +3,7 @@
 ## Voraussetzungen
 
 - Blender **4.2 oder neuer** (getestet mit 5.1 / 5.2)
-- Optional: [.NET 8 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) für die C# GeoEngine (experimentell)
+- Optional: [.NET 8 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) für die C# GeoEngine (**Beta-Test**)
 - V-HACD: `TestVHACD.exe` liegt in der ZIP
 
 ## ZIP einspielen
@@ -20,5 +20,5 @@ Wenn Architect oder P3D Studio installiert sind, liegt Collider im gemeinsamen T
 **Edit → Preferences → Add-ons → CDM Collider**
 
 - **N-Panel mit Set zusammenführen** — ein Tab für Architect / Collider / P3D Studio
-- **Gebäude Geo LOD (experimentell)** — standardmäßig **aus**. Nur einschalten, wenn du die Auto-Pipeline testest.
+- **Gebäude Geo LOD (Beta-Test)** — standardmäßig **aus**. Nur einschalten, wenn du die Auto-Pipeline testest.
 - **TestVHACD.exe** — Pfad, falls die mitgelieferte Datei nicht gefunden wird

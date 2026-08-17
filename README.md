@@ -13,9 +13,10 @@ Eigenständiges Addon (nicht die alte DayZ-Suite). Passt zu **CDM Architect** un
 
 ## Handbuch
 
-Schritt-für-Schritt mit Screenshots (eingeloggt, Repo ist privat):
+Schritt-für-Schritt mit Screenshots (Cube + Rock). Repo ist privat — eingeloggt öffnen:
 
-**https://github.com/Crash357/CDM_Collider/blob/main/docs/handbuch/README.md**
+- **Deutsch:** https://github.com/Crash357/CDM_Collider/blob/main/docs/handbuch/de/README.md
+- **English:** https://github.com/Crash357/CDM_Collider/blob/main/docs/handbuch/en/README.md
 
 ## Funktionen
 
@@ -26,7 +27,7 @@ Schritt-für-Schritt mit Screenshots (eingeloggt, Repo ist privat):
 - **Merge (Exact)** → Geometry LOD mit `ComponentXX`
 - Viewport-Shading bleibt unverändert (Solid / Material / Rendered)
 
-Gebäude-Auto-Geo ist **experimentell** und in den Preferences ausgeschaltet.
+Gebäude-Auto-Geo ist **Beta-Test** und in den Preferences ausgeschaltet.
 
 ## Links
 

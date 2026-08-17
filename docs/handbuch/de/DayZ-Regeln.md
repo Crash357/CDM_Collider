@@ -24,6 +24,11 @@ Auswahl-Tools legen **1 mm** Überstand an (2 mm bei einer flachen Fläche). Kei
 
 Assignen stellt Solid/Material/Rendered **nicht** um. Farben liegen am Objekt und am Debug-Material (`cdm_comp_mat` / `cdm_geo`).
 
-## Experimentell
+## Beta-Test
 
-**Gebäude Geo LOD** in den Preferences bleibt aus, bis die Auto-Pipeline für euer Mesh sitzt. Produktionsweg: manuell AABB/Hull → Merge.
+**Gebäude Geo LOD** in den Preferences ist ein **Beta-Test** und bleibt **aus**, bis die Auto-Pipeline für euer Mesh sitzt.
+
+Produktionsweg:
+
+- Cube / Wände: manuell AABB oder Hull → Merge Exact
+- Rock / Props: V-HACD oder CoACD → Merge Hull

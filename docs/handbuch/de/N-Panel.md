@@ -2,7 +2,7 @@
 
 Taste **N** im 3D-Viewport, Tab **CDM**, Abschnitt **CDM Collider**.
 
-![Collider-Panel](images/npanel.png)
+![Collider-Panel](../images/npanel.png)
 
 ## Ziel
 
@@ -24,7 +24,7 @@ Für Faces/Verts: zuerst **Tab** (Edit Mode).
 
 ## Anzeige
 
-- **Geometry** / **Components** — Viewport-Farbe
+- **Geometry** (grün) / **Components** (cyan)
 - **An** — Farben auf bestehende Geo anwenden
 - **Aus** — Overlay zurücksetzen
 
@@ -32,9 +32,9 @@ Das Addon ändert **nicht** Solid / Material Preview / Rendered.
 
 ## Auto-Generation
 
-Methode (OBB, HULL, VHACD, CoACD, …), dann **Decompose** und **Merge**. Siehe [V-HACD und CoACD](VHACD-und-CoACD.md).
+Methode (OBB, HULL, **VHACD**, CoACD, …), dann **1. Decompose** und **2. Merge**. Siehe [V-HACD und CoACD](VHACD-und-CoACD.md).
 
-Gebäude **Blind generieren** erscheint nur, wenn in den Preferences **Gebäude Geo LOD (experimentell)** an ist.
+**Gebäude — Blind generieren** erscheint nur, wenn in den Preferences **Gebäude Geo LOD (Beta-Test)** an ist. Standard: aus.
 
 ## Info & Check
 
