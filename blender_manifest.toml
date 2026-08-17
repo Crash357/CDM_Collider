@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "cdm_collider"
+name = "CDM Collider"
+version = "1.0.3"
+tagline = "DayZ collision geometry, Geo LOD, VHACD and CoACD for Blender"
+maintainer = "CDM"
+type = "add-on"
+
+website = "https://www.youtube.com/@crash_dayz_modding"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:MIT"]

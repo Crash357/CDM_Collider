@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{27C3BAB6-2862-403F-B2A4-310DE16CE97D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cdm.GeoEngine.Core", "src\Cdm.GeoEngine.Core\Cdm.GeoEngine.Core.csproj", "{835C21A3-5F7B-404C-8EEC-E0892689C2DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cdm.GeoEngine.Cli", "src\Cdm.GeoEngine.Cli\Cdm.GeoEngine.Cli.csproj", "{DA728284-A67F-47CF-8050-7A448BB4E5F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{85B90A27-0D0D-476B-963F-831D62EFD576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cdm.GeoEngine.Tests", "tests\Cdm.GeoEngine.Tests\Cdm.GeoEngine.Tests.csproj", "{D914E375-E863-4C72-9575-6F623C5E6BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835C21A3-5F7B-404C-8EEC-E0892689C2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835C21A3-5F7B-404C-8EEC-E0892689C2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835C21A3-5F7B-404C-8EEC-E0892689C2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835C21A3-5F7B-404C-8EEC-E0892689C2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA728284-A67F-47CF-8050-7A448BB4E5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA728284-A67F-47CF-8050-7A448BB4E5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA728284-A67F-47CF-8050-7A448BB4E5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA728284-A67F-47CF-8050-7A448BB4E5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D914E375-E863-4C72-9575-6F623C5E6BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D914E375-E863-4C72-9575-6F623C5E6BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D914E375-E863-4C72-9575-6F623C5E6BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D914E375-E863-4C72-9575-6F623C5E6BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{835C21A3-5F7B-404C-8EEC-E0892689C2DE} = {27C3BAB6-2862-403F-B2A4-310DE16CE97D}
+		{DA728284-A67F-47CF-8050-7A448BB4E5F6} = {27C3BAB6-2862-403F-B2A4-310DE16CE97D}
+		{D914E375-E863-4C72-9575-6F623C5E6BAC} = {85B90A27-0D0D-476B-963F-831D62EFD576}
+	EndGlobalSection
+EndGlobal

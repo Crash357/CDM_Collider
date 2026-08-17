@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.blend1
+
+# Build / install zips
+dist/
+*.zip
+
+# Local references — not part of the public addon (Suite backups, GPL samples)
+samples/
+
+# Editor / C# intermediates
+.cursor/
+.vscode/
+geo_engine_cs/**/obj/
+geo_engine_cs/**/bin/
