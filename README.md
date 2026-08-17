@@ -13,7 +13,9 @@ Eigenständiges Addon (nicht die alte DayZ-Suite). Passt zu **CDM Architect** un
 
 ## Handbuch
 
-Schritt-für-Schritt mit Screenshots: **[docs/handbuch](docs/handbuch/README.md)**
+Schritt-für-Schritt mit Screenshots (eingeloggt, Repo ist privat):
+
+**https://github.com/Crash357/CDM_Collider/blob/main/docs/handbuch/README.md**
 
 ## Funktionen
 
