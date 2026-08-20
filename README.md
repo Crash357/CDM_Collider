@@ -46,4 +46,7 @@ Alternatively, you can make a donation via PayPal:
 
 [![Donate](docs/donate.svg)](https://paypal.me/crash12345?country.x=DE&locale.x=de_DE)
 
+[![Gumroad](https://img.shields.io/badge/Buy%20on-Gumroad-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://cdmcrash.gumroad.com/l/hcwtdy)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/crash12345?country.x=DE&locale.x=de_DE)
+
 Lizenz: **GPLv3 (oder später)**. Mitgeliefert: V-HACD (BSD 3-Clause), CoACD (MIT). Nicht von Bohemia Interactive.
