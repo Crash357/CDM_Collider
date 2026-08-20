@@ -11,4 +11,4 @@ Wiki: https://github.com/Crash357/CDM_Collider/wiki
 
 Repo privat: Seiten und Bilder nur eingeloggt über GitHub.
 
-Lizenz: proprietär (CDM Collider). V-HACD BSD 3-Clause, CoACD MIT.
+Lizenz: **GPLv3** (CDM Collider). V-HACD BSD 3-Clause, CoACD MIT. Nicht von Bohemia Interactive.

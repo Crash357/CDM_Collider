@@ -36,4 +36,4 @@ Gebäude-Auto-Geo ist **Beta-Test** und in den Preferences ausgeschaltet.
 - YouTube: [Crash DayZ Modding](https://www.youtube.com/@crash_dayz_modding)
 - Discord: https://discord.gg/9PM8BjWmp8
 
-Lizenz: proprietär (kein MIT). Mitgeliefert: V-HACD (BSD 3-Clause), CoACD (MIT).
+Lizenz: **GPLv3 (oder später)**. Mitgeliefert: V-HACD (BSD 3-Clause), CoACD (MIT). Nicht von Bohemia Interactive.

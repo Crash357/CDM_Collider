@@ -11,5 +11,5 @@ website = "https://www.youtube.com/@crash_dayz_modding"
 
 blender_version_min = "4.2.0"
 
-license = ["SPDX:LicenseRef-Proprietary"]
+license = ["SPDX:GPL-3.0-or-later"]
 copyright = ["2026 CDM"]

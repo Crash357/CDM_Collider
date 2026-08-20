@@ -25,6 +25,8 @@ If Architect or P3D Studio is installed, Collider shares the **CDM** tab (no ext
 
 ## License
 
-CDM Collider is **proprietary** (not MIT). Redistributing the ZIP is not allowed.
+CDM Collider is **GNU GPLv3** (or later). Redistribution and modification are allowed; see `LICENSE` and `COPYING` in the ZIP.
 
 Bundled under their own licenses: V-HACD (BSD 3-Clause), CoACD (MIT).
+
+Unofficial tool, **not** affiliated with Bohemia Interactive.

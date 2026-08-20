@@ -120,7 +120,7 @@ class CDM_ColliderPreferences(bpy.types.AddonPreferences):
         layout.separator()
         box3 = layout.box()
         box3.label(text="Lizenz", icon="SCRIPT")
-        box3.label(text="CDM Collider — proprietär © 2026 CDM")
+        box3.label(text="CDM Collider — GPLv3 © 2026 CDM")
         box3.label(text="V-HACD — BSD 3-Clause © 2011 Khaled Mamou")
         box3.label(text="CoACD — MIT © Xinyue Wei et al. (SIGGRAPH 2022)")
 

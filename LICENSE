@@ -1,57 +1,60 @@
-CDM Collider — Proprietary License
+CDM Collider — Blender Extension
 Copyright (c) 2026 CDM / Crash DayZ Modding
 
-All rights reserved.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-This software (CDM Collider, including source, binaries, documentation and
-bundled CDM GeoEngine) is proprietary. You may use it only if you obtained a
-valid license from CDM / Crash DayZ Modding (purchase or explicit grant).
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-You may:
-  - install and use the add-on in Blender for your own projects
-  - keep backup copies for personal use
-
-You may not:
-  - redistribute, resell, share or publish the ZIP, source or a modified copy
-  - sublicense the add-on to third parties
-  - upload it to public extension platforms or other stores
-
-No warranty. The software is provided “as is”, without warranty of any kind.
+You should have received a copy of the GNU General Public License
+along with this program (see COPYING). If not, see
+<https://www.gnu.org/licenses/>.
 
 ---
 
-CDM Collider — Proprietäre Lizenz
+CDM Collider — Blender-Erweiterung
 Copyright (c) 2026 CDM / Crash DayZ Modding
 
-Alle Rechte vorbehalten.
+Diese Software ist freie Software: Sie können sie unter den Bedingungen
+der GNU General Public License, wie von der Free Software Foundation
+veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß
+Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
 
-Diese Software (CDM Collider inklusive Quellcode, Binaries, Dokumentation und
-mitgelieferter CDM GeoEngine) ist proprietär. Nutzung nur mit gültiger Lizenz
-von CDM / Crash DayZ Modding (Kauf oder ausdrückliche Freigabe).
-
-Erlaubt:
-  - Installation und Nutzung in Blender für eigene Projekte
-  - Sicherungskopien für den eigenen Gebrauch
-
-Nicht erlaubt:
-  - Weitergabe, Weiterverkauf, Teilen oder Veröffentlichen der ZIP, des
-    Quellcodes oder einer veränderten Kopie
-  - Unterlizenzierung an Dritte
-  - Upload auf öffentliche Extension-Plattformen oder andere Shops
-
-Keine Gewährleistung. Die Software wird „wie besehen“ bereitgestellt.
+Die Veröffentlichung dieser Software erfolgt in der Hoffnung, dass sie
+nützlich sein wird, aber OHNE JEDE GEWÄHRLEISTUNG, sogar ohne die implizite
+Gewährleistung der MARKTREIFE oder der EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+Details finden Sie in der GNU General Public License.
 
 ---
 
-Third-party / Drittanbieter (unchanged licenses)
+Third-Party Notices & Compatibility / Hinweise zu Drittanbietern
 
-V-HACD (TestVHACD.exe)
-  BSD 3-Clause © 2011 Khaled Mamou
-  https://github.com/kmammou/v-hacd
+1. Blender & GPL Compliance
+   CDM Collider is a Python extension for Blender. In accordance with
+   Blender's licensing model, the code interacting with Blender's API is
+   licensed under the GNU General Public License (GPLv3).
 
-CoACD (bundled Python wheel)
-  MIT © Xinyue Wei et al. (SIGGRAPH 2022)
-  https://github.com/SarahWeiii/CoACD
+2. Bundled Third-Party Components
+   This add-on integrates third-party libraries which remain under their
+   respective open-source licenses:
 
-These components remain under their original licenses. CDM Collider’s
-proprietary terms apply only to CDM’s own code and assets.
+   - V-HACD (TestVHACD.exe)
+     BSD 3-Clause License
+     Copyright (c) 2011 Khaled Mamou
+     https://github.com/kmammou/v-hacd
+
+   - CoACD (Python wheel)
+     MIT License
+     Copyright (c) Xinyue Wei et al. (SIGGRAPH 2022)
+     https://github.com/SarahWeiii/CoACD
+
+3. Bohemia Interactive Disclaimer
+   CDM Collider is an unofficial tool and is NOT affiliated with, endorsed
+   by, or connected to Bohemia Interactive a.s.
+   DayZ, Arma, and related logos or designations are trademarks or registered
+   trademarks of Bohemia Interactive a.s.
