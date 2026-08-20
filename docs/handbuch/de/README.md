@@ -31,4 +31,4 @@ Beispielszene in diesem Handbuch: **Cube** (normale Collision, Faces → AABB) u
 
 ## Download
 
-[Release 1.0.3](https://github.com/Crash357/CDM_Collider/releases/tag/v1.0.3) · [Discord](https://discord.gg/9PM8BjWmp8) · [YouTube](https://www.youtube.com/@crash_dayz_modding)
+[Release 1.0.3](https://github.com/Crash357/CDM_Collider/releases/tag/v1.0.3) · [Discord](https://discord.gg/9PM8BjWmp8) · [YouTube](https://www.youtube.com/@crash_dayz_modding) · [Donate (PayPal)](https://paypal.me/crash12345?country.x=DE&locale.x=de_DE)

@@ -1,5 +1,7 @@
 # CDM Collider
 
+[![Donate](docs/donate.svg)](https://paypal.me/crash12345?country.x=DE&locale.x=de_DE)
+
 Blender-Addon für **DayZ Collision / Geometry LOD**.
 
 Eigenständiges Addon (nicht die alte DayZ-Suite). Passt zu **CDM Architect** und **CDM P3D Studio**.
@@ -35,5 +37,13 @@ Gebäude-Auto-Geo ist **Beta-Test** und in den Preferences ausgeschaltet.
 
 - YouTube: [Crash DayZ Modding](https://www.youtube.com/@crash_dayz_modding)
 - Discord: https://discord.gg/9PM8BjWmp8
+
+## Support
+
+You are permitted to get a copy from this GitHub page and everything specified in the attached license ([GPL 3.0](LICENSE)). Creating add-ons is a lot of effort and work. The licensing and contribution of future add-ons will also depend on the fairness of all of you.
+
+Alternatively, you can make a donation via PayPal:
+
+[![Donate](docs/donate.svg)](https://paypal.me/crash12345?country.x=DE&locale.x=de_DE)
 
 Lizenz: **GPLv3 (oder später)**. Mitgeliefert: V-HACD (BSD 3-Clause), CoACD (MIT). Nicht von Bohemia Interactive.

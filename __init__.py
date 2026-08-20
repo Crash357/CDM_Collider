@@ -61,6 +61,7 @@ class CDM_ColliderPreferences(bpy.types.AddonPreferences):
         layout = self.layout
         prefs_ui.draw_prefs_header(layout, "CDM Collider", icon="MOD_EXPLODE")
         prefs_ui.draw_links(layout)
+        prefs_ui.draw_support(layout)
         companions.draw_companion_status(layout, "cdm_collider", context)
         layout.prop(self, "unify_n_panel_with_set")
 

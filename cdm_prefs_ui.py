@@ -7,6 +7,7 @@ from .addon_version import version_label
 
 YOUTUBE_URL = "https://www.youtube.com/@crash_dayz_modding"
 DISCORD_URL = "https://discord.gg/9PM8BjWmp8"
+PAYPAL_URL = "https://paypal.me/crash12345?country.x=DE&locale.x=de_DE"
 
 
 def draw_prefs_header(layout, title: str, *, icon: str = 'PLUGIN') -> None:
@@ -22,6 +23,20 @@ def draw_links(layout) -> None:
     row = box.row(align=True)
     row.operator("wm.url_open", text="YouTube", icon="FILE_MOVIE").url = YOUTUBE_URL
     row.operator("wm.url_open", text="Discord", icon="COMMUNITY").url = DISCORD_URL
+
+
+def draw_support(layout) -> None:
+    """GitHub/GPL note + PayPal donate (Preferences)."""
+    box = layout.box()
+    box.label(text="Support", icon='FUND')
+    col = box.column(align=True)
+    col.scale_y = 0.85
+    col.label(text="You may copy this add-on from GitHub under GPL 3.0.")
+    col.label(text="Creating add-ons takes a lot of time and work.")
+    col.label(text="A PayPal donation is a fair way to support future updates.")
+    row = box.row()
+    row.scale_y = 1.2
+    row.operator("wm.url_open", text="Donate via PayPal", icon='FUND').url = PAYPAL_URL
 
 
 def draw_uninstall_button(layout, operator_id: str) -> None:
