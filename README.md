@@ -1,6 +1,7 @@
 # CDM Collider
 
-[![Donate](docs/donate.svg)](https://paypal.me/crash12345?country.x=DE&locale.x=de_DE)
+[![Gumroad](https://img.shields.io/badge/Buy%20on-Gumroad-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://cdmcrash.gumroad.com/l/hcwtdy)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/crash12345?country.x=DE&locale.x=de_DE)
 
 Blender-Addon für **DayZ Collision / Geometry LOD**.
 
